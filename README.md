@@ -55,12 +55,6 @@ ERPAutomatizaciones/
 * pandas
 * openpyxl
 
-Install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Run in Development Mode
